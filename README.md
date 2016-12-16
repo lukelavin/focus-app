@@ -3,6 +3,7 @@ A convenient way to get your exact grades and to know what grade you'll need on 
 
 
 HOW TO:
+
 1. Download the .zip file from the most recent release.
 
 2. Go to the folder where you downloaded the .zip file
