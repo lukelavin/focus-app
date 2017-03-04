@@ -1,5 +1,0 @@
-readFrom=grades.txt
-gradeForA=89.5
-gradeForB=79.5
-gradeForC=73.5
-gradeForD=69.5
