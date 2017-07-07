@@ -1,5 +1,5 @@
 # focus-app
-A convenient way to get your exact grades and to know what grade you'll need on a final exam.
+A convenient way for Walton students to know their exact grades and to calculate the grade needed on a final exam.
 
 
 HOW TO:
